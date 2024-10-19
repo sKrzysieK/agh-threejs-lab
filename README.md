@@ -1,1 +1,1 @@
-"# agh-threejs-lab" 
+# AGH ThreeJS lab
